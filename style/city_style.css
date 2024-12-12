@@ -4,6 +4,17 @@
     float: left;
     border: thick black solid;
 }
+.summary h3{
+    padding-left: 1em;
+}
+.summary p {
+    padding-left: 1em;
+    padding-right: 1em;
+}
+.summary li{
+    padding-left: 10px;
+    padding-bottom: 10px;
+}
 .rightsummary {
     width: 45%;
     margin-bottom: 10px;
