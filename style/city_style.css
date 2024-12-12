@@ -1,0 +1,25 @@
+.summary {
+    width: 50%;
+    margin-bottom: 10px;
+    float: left;
+    border: thick black solid;
+}
+.rightsummary {
+    width: 45%;
+    margin-bottom: 10px;
+    float: right;
+    border: thick black solid;
+}
+.rightsummary table tr td {
+    width: 50%;
+}
+.flag {
+    width: 100%;
+}
+.map {
+    width: 100%;
+}
+.rightsummary p {
+    margin-top: 8px;
+    margin-bottom: 0px;
+}
