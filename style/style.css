@@ -75,8 +75,12 @@ footer {
 small {
     color: whitesmoke;
 }
-img {
+.left_menu {
     width: 49%;
+    float: left;
+}
+.left_menu img {
+    width: 100%;
 }
 .chiba_name {
     height: 100%;
