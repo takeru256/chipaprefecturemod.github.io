@@ -1,2 +1,2 @@
-# [GoogleSearchTest] (google-site-verification=-eDde6ft7inTSgMwE4mPHmcr7km-nTI80I9tNUgtYMA)
+# [GoogleSearchTest] (https://takeru256.github.io/chipaprefecturemod.github.io/)
 # chipaprefecturemod.github.io
