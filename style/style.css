@@ -8,11 +8,11 @@ body {
     width: 100%;
     padding-top: 1px;
     margin-bottom: 10px;
-    background-color: yellow;
+    background-color: rgb(235, 235, 0);
 }
 .header {
     color: whitesmoke;
-    background-color: blue;
+    background-color: rgb(2, 2, 155);
     margin-top: 5px;
     margin-left: 5px;
     margin-right: 5px;
@@ -38,7 +38,7 @@ body {
     padding: 0px;
     width: 25%;
     height: 100%;
-    background-color: blue;
+    background-color: rgb(2, 2, 155);
     color: white;
     text-align: center;
 }
@@ -52,7 +52,8 @@ body {
     margin-left: auto;
 }
 .menu ul li a:hover {
-    background-color: greenyellow;
+    background-color: rgb(102, 170, 0);
+    color: black;
 }
 ul li {
     height: 3em;
@@ -70,19 +71,22 @@ footer {
     padding-top: 1em;
     padding-right: 1em;
     height: 75px;
-    background-color: blue;
+    background-color: rgb(2, 2, 155);
 }
 small {
     color: whitesmoke;
 }
 .left_menu {
-    width: 49%;
+    width: 50%;
     float: left;
 }
-.left_menu img {
-    width: 100%;
-}
 .chiba_name {
+    background-image: url(../img/chiba_map.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: rgba(255, 238, 196, 0.6);
+    background-blend-mode: lighten;
     height: 100%;
     float: right;
     width: 49%;
