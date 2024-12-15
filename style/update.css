@@ -1,0 +1,30 @@
+.update {
+    background-color: rgb(250, 208, 157);
+    border: solid thin black;
+    border-bottom-left-radius: 20px;
+    border-top-right-radius: 20px;
+    padding-bottom: 12px;
+}
+.update h3 {
+    text-align: center;
+}
+.update li {
+    margin-left: 15px;
+}
+.update_content {
+    background-color: rgb(250, 208, 157);
+    border: solid thin black;
+    border-radius: 20px;
+    padding-bottom: 12px;
+    margin:0px 10px 10px 10px;
+}
+.update_content h4 {
+    text-align: center;
+}
+.update_content .date {
+    float: right;
+    margin-right: 20px;
+}
+.update_content p {
+    margin: 0px 0px 10px 10px; 
+}
