@@ -2,7 +2,7 @@
     background-image: url(../img/chiba.png);
     background-size: contain;
     background-repeat: no-repeat;
-    background-position: right;
+    background-position: center;
     background-color: rgba(240, 248, 255, 0.6);
     background-blend-mode: lighten;
 }
@@ -10,7 +10,7 @@
     background-image: url(../img/tokatsu.png);
     background-size: contain;
     background-repeat: no-repeat;
-    background-position: right;
+    background-position: center;
     background-color: rgba(240, 248, 255, 0.6);
     background-blend-mode: lighten;
 }
@@ -18,7 +18,7 @@
     background-image: url(../img/katsunan.png);
     background-size: contain;
     background-repeat: no-repeat;
-    background-position: right;
+    background-position: center;
     background-color: rgba(240, 248, 255, 0.6);
     background-blend-mode: lighten;
 }
@@ -26,7 +26,7 @@
     background-image: url(../img/inba.png);
     background-size: contain;
     background-repeat: no-repeat;
-    background-position: right;
+    background-position: center;
     background-color: rgba(240, 248, 255, 0.6);
     background-blend-mode: lighten;
 }
@@ -34,7 +34,7 @@
     background-image: url(../img/katori.png);
     background-size: contain;
     background-repeat: no-repeat;
-    background-position: right;
+    background-position: center;
     background-color: rgba(240, 248, 255, 0.6);
     background-blend-mode: lighten;
 }
@@ -42,7 +42,7 @@
     background-image: url(../img/kaisho.png);
     background-size: contain;
     background-repeat: no-repeat;
-    background-position: right;
+    background-position: center;
     background-color: rgba(240, 248, 255, 0.6);
     background-blend-mode: lighten;
 }
@@ -50,7 +50,7 @@
     background-image: url(../img/sanmu.png);
     background-size: contain;
     background-repeat: no-repeat;
-    background-position: right;
+    background-position: center;
     background-color: rgba(240, 248, 255, 0.6);
     background-blend-mode: lighten;
 }
@@ -58,7 +58,7 @@
     background-image: url(../img/chosei.png);
     background-size: contain;
     background-repeat: no-repeat;
-    background-position: right;
+    background-position: center;
     background-color: rgba(240, 248, 255, 0.6);
     background-blend-mode: lighten;
 }
@@ -66,7 +66,7 @@
     background-image: url(../img/isumi.png);
     background-size: contain;
     background-repeat: no-repeat;
-    background-position: right;
+    background-position: center;
     background-color: rgba(240, 248, 255, 0.6);
     background-blend-mode: lighten;
 }
@@ -74,7 +74,7 @@
     background-image: url(../img/awa.png);
     background-size: contain;
     background-repeat: no-repeat;
-    background-position: right;
+    background-position: center;
     background-color: rgba(240, 248, 255, 0.6);
     background-blend-mode: lighten;
 }
@@ -83,7 +83,7 @@
     background-image: url(../img/kimitsu.png);
     background-size: contain;
     background-repeat: no-repeat;
-    background-position: right;
+    background-position: center;
     background-color: rgba(240, 248, 255, 0.6);
     background-blend-mode: lighten;
 }
@@ -105,4 +105,16 @@
 }
 .chiba_name h4 {
     text-align: center;
+}
+.left_menu_left {
+    margin-top: 10px;
+    height: 100%;
+    background-color: aliceblue;
+    border: 2px;
+    border-style: solid;
+    border-color: black;
+    border-radius: 20px;
+    width: 50%;
+    float: left;
+    margin-bottom: 10px;
 }
