@@ -1,0 +1,108 @@
+.chiba {
+    background-image: url(../img/chiba.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: right;
+    background-color: rgba(240, 248, 255, 0.6);
+    background-blend-mode: lighten;
+}
+.tokatsu {
+    background-image: url(../img/tokatsu.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: right;
+    background-color: rgba(240, 248, 255, 0.6);
+    background-blend-mode: lighten;
+}
+.katsunan {
+    background-image: url(../img/katsunan.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: right;
+    background-color: rgba(240, 248, 255, 0.6);
+    background-blend-mode: lighten;
+}
+.inba {
+    background-image: url(../img/inba.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: right;
+    background-color: rgba(240, 248, 255, 0.6);
+    background-blend-mode: lighten;
+}
+.katori {
+    background-image: url(../img/katori.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: right;
+    background-color: rgba(240, 248, 255, 0.6);
+    background-blend-mode: lighten;
+}
+.kaisho {
+    background-image: url(../img/kaisho.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: right;
+    background-color: rgba(240, 248, 255, 0.6);
+    background-blend-mode: lighten;
+}
+.sanmu {
+    background-image: url(../img/sanmu.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: right;
+    background-color: rgba(240, 248, 255, 0.6);
+    background-blend-mode: lighten;
+}
+.chosei {
+    background-image: url(../img/chosei.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: right;
+    background-color: rgba(240, 248, 255, 0.6);
+    background-blend-mode: lighten;
+}
+.isumi {
+    background-image: url(../img/isumi.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: right;
+    background-color: rgba(240, 248, 255, 0.6);
+    background-blend-mode: lighten;
+}
+.awa {
+    background-image: url(../img/awa.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: right;
+    background-color: rgba(240, 248, 255, 0.6);
+    background-blend-mode: lighten;
+}
+.kimitsu {
+    background-color: blue;
+    background-image: url(../img/kimitsu.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: right;
+    background-color: rgba(240, 248, 255, 0.6);
+    background-blend-mode: lighten;
+}
+.chiba_name {
+    background-color: aliceblue;
+    border: 2px;
+    border-style: solid;
+    border-color: black;
+    border-radius: 20px;
+    float: right;
+    width: 49%;
+    margin-bottom: 10px;
+}
+.chiba_name ul li {
+    float: none;
+}
+.chiba_name h3 {
+    text-align: center;
+}
+.chiba_name h4 {
+    text-align: center;
+}

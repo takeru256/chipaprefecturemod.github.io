@@ -88,14 +88,3 @@ small {
     width: 50%;
     float: left;
 }
-.chiba_name {
-    background-image: url(../img/chiba_map.png);
-    background-size: 100%;
-    background-repeat: no-repeat;
-    background-position: center;
-    background-color: rgba(255, 238, 196, 0.6);
-    background-blend-mode: lighten;
-    height: 100%;
-    float: right;
-    width: 49%;
-}
