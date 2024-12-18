@@ -106,15 +106,29 @@
 .chiba_name h4 {
     text-align: center;
 }
+.left_menu {
+    width: 49%;
+}
 .left_menu_left {
     margin-top: 10px;
+    margin-bottom: 10px;
     height: 100%;
     background-color: aliceblue;
     border: 2px;
     border-style: solid;
     border-color: black;
     border-radius: 20px;
-    width: 50%;
+    width: 100%;
     float: left;
-    margin-bottom: 10px;
+}
+.left_menu_left h3 {
+    text-align: center;
+}
+.left_menu_left h4 {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.left_menu_left p {
+    margin-left: 10px;
+    margin-right: 10px;
 }

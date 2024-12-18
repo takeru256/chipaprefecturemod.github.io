@@ -74,17 +74,25 @@ ul li {
 hr {
     clear: both;
 }
-footer {
-    text-align: right;
-    padding-top: 1em;
-    padding-right: 1em;
-    height: 75px;
-    background-color: rgb(2, 2, 155);
-}
 small {
     color: whitesmoke;
 }
-.left_menu {
-    width: 50%;
-    float: left;
+footer {
+    color: whitesmoke;
+    text-align: right;
+    padding-top: 1em;
+    padding-right: 1em;
+    height: 100%;
+    background-color: rgb(2, 2, 155);
+}
+footer p {
+    text-align: left;
+}
+footer a {
+    text-align: left;
+    color: yellow;
+    text-decoration: none;
+}
+footer a:hover {
+    color: lightgreen;
 }
